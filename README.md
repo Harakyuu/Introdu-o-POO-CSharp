@@ -1,2 +1,2 @@
-# Introdu-o-POO-CSharp
+# Introducao-POO-CSharp
 Introdução a programação orientada a objetos pelo curso da DIO usando C#
